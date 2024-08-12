@@ -1,0 +1,42 @@
+# ubuntu2204 @ ubuntu2204-VirtualBox in ~/workspace/ffmpeg on git:release/4.4 o [16:25:11] 
+$ ls -al
+总计 692
+drwxrwxr-x 19 ubuntu2204 ubuntu2204   4096  2月 28 10:13 .
+drwxrwxr-x  5 ubuntu2204 ubuntu2204   4096  3月 15 13:56 ..
+-rw-rw-r--  1 ubuntu2204 ubuntu2204  90696  2月 28 10:13 Changelog
+drwxrwxr-x 11 ubuntu2204 ubuntu2204   4096  2月 28 10:13 compat
+-rwxrwxr-x  1 ubuntu2204 ubuntu2204 260901  2月 28 10:13 configure
+-rw-rw-r--  1 ubuntu2204 ubuntu2204    418  2月 28 10:13 CONTRIBUTING.md
+-rw-rw-r--  1 ubuntu2204 ubuntu2204  18092  2月 28 10:13 COPYING.GPLv2
+-rw-rw-r--  1 ubuntu2204 ubuntu2204  35147  2月 28 10:13 COPYING.GPLv3
+-rw-rw-r--  1 ubuntu2204 ubuntu2204  26526  2月 28 10:13 COPYING.LGPLv2.1
+-rw-rw-r--  1 ubuntu2204 ubuntu2204   7651  2月 28 10:13 COPYING.LGPLv3
+-rw-rw-r--  1 ubuntu2204 ubuntu2204    277  2月 28 10:13 CREDITS
+drwxrwxr-x  5 ubuntu2204 ubuntu2204   4096  2月 28 10:13 doc
+drwxrwxr-x  2 ubuntu2204 ubuntu2204   4096  2月 28 10:13 ffbuild
+drwxrwxr-x  2 ubuntu2204 ubuntu2204   4096  2月 28 10:13 fftools
+drwxrwxr-x  8 ubuntu2204 ubuntu2204   4096  8月 12 11:48 .git
+-rw-rw-r--  1 ubuntu2204 ubuntu2204     50  1月 25  2024 .gitattributes
+-rw-rw-r--  1 ubuntu2204 ubuntu2204    296  1月 25  2024 .gitignore
+-rw-rw-r--  1 ubuntu2204 ubuntu2204    596  2月 28 10:13 INSTALL.md
+drwxrwxr-x 14 ubuntu2204 ubuntu2204  49152  2月 28 10:13 libavcodec
+drwxrwxr-x  3 ubuntu2204 ubuntu2204   4096  2月 28 10:13 libavdevice
+drwxrwxr-x  8 ubuntu2204 ubuntu2204  20480  2月 28 10:13 libavfilter
+drwxrwxr-x  3 ubuntu2204 ubuntu2204  20480  2月 28 10:13 libavformat
+drwxrwxr-x  6 ubuntu2204 ubuntu2204   4096  2月 28 10:13 libavresample
+drwxrwxr-x 12 ubuntu2204 ubuntu2204  12288  2月 28 10:13 libavutil
+drwxrwxr-x  2 ubuntu2204 ubuntu2204   4096  2月 28 10:13 libpostproc
+drwxrwxr-x  6 ubuntu2204 ubuntu2204   4096  2月 28 10:13 libswresample
+drwxrwxr-x  7 ubuntu2204 ubuntu2204   4096  2月 28 10:13 libswscale
+-rw-rw-r--  1 ubuntu2204 ubuntu2204   4376  2月 28 10:13 LICENSE.md
+-rw-rw-r--  1 ubuntu2204 ubuntu2204   1177  1月 25  2024 .mailmap
+-rw-rw-r--  1 ubuntu2204 ubuntu2204  30544  2月 28 10:13 MAINTAINERS
+-rw-rw-r--  1 ubuntu2204 ubuntu2204   6353  2月 28 10:13 Makefile
+drwxrwxr-x  2 ubuntu2204 ubuntu2204   4096  2月 28 10:13 presets
+-rw-rw-r--  1 ubuntu2204 ubuntu2204   1790  2月 28 10:13 README.md
+-rw-rw-r--  1 ubuntu2204 ubuntu2204      6  2月 28 10:13 RELEASE
+-rw-rw-r--  1 ubuntu2204 ubuntu2204    830  2月 28 10:13 RELEASE_NOTES
+drwxrwxr-x  8 ubuntu2204 ubuntu2204   4096  2月 28 10:13 tests
+drwxrwxr-x  3 ubuntu2204 ubuntu2204   4096  2月 28 10:13 tools
+-rw-rw-r--  1 ubuntu2204 ubuntu2204    531  1月 25  2024 .travis.yml
+-rw-rw-r--  1 ubuntu2204 ubuntu2204      0  2月 21 19:29 .version
